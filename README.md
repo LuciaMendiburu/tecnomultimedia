@@ -1,1 +1,1 @@
-En mi aventura gráfica, la pantalla 7, es una donde un empleado del rey, tiene que decidir entre decir que vió que las telas no existían, o mentir para mantener su trabajo. Este juego, remplazaría esa pantalla, siento las dos decisiones finales, las mismas.
+En mi aventura gráfica, la pantalla 7, es una donde un empleado del rey, tiene que decidir entre decir que vió que las telas no existían, o mentir para mantener su trabajo. Este juego, remplazaría esa pantalla, siendo las dos decisiones finales, las mismas en ambos casos.
