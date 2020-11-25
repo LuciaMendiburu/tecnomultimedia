@@ -9,7 +9,7 @@ class Boton{
     
     ancho = p_ancho;
     alto = p_alto;
-    
+    // 
     this.posX = posX;
     this.posY = posY;
     this.pantallaAIr = pantallaAIr;
